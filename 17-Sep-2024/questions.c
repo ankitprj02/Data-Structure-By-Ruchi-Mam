@@ -1,5 +1,6 @@
-'''
-  1. Find the largest number among the three numbers entered by the user.
+/*
+
+1. Find the largest number among the three numbers entered by the user.
 
 2. Check whether an alphabet entered by the user is a vowel or a consonant.
 
@@ -15,4 +16,5 @@
   Temp 20-30 then Normal in Temp
   Temp 30-40 then Its Hot
   Temp >=40 then Its Very Hot
-'''
+
+*/
